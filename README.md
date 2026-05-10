@@ -6,7 +6,7 @@ Komunikacja między agentami przez ACP (Agent Client Protocol) — komendy acpx 
 
 ```bash
 # Clone to your OpenClaw skills directory
-git clone https://github.com/nerua1/skill-acp-bridge.git ~/.openclaw/skills/acp-bridge
+git clone https://github.com/nerudek/skill-acp-bridge.git ~/.openclaw/skills/acp-bridge
 
 # Or symlink if you keep skills elsewhere
 ln -s /path/to/skill-acp-bridge ~/.openclaw/skills/acp-bridge
